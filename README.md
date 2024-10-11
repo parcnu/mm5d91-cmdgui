@@ -3,3 +3,5 @@
 # Compile
 * VSCode
 * project has .vscode settings for OSX and RPI4B
+# Class hierarchy
+![Class Hierarchy](images/class_hierarchy.jpg)
